@@ -12,6 +12,7 @@ public class ForLoops {
         characterOfWord[1]='o';
         characterOfWord[2]='g';
 
+
         System.out.println(Arrays.toString(characterOfWord));
 
         String name = "MISSISSIPPI";//-->MISSISOIPPI
